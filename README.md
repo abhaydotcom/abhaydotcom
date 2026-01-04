@@ -32,7 +32,7 @@
 
 ## 🔥 Featured Projects
 
-### 💬 [Chatify - Real-Time Chat Application](https://github.com/avaydotcom/chatify)
+### 💬 [Chatify - Real-Time Chat Application](https://github.com/abhaydotcom/chatify)
 A full-stack MERN chat app with real-time messaging using Socket.IO
 - 🔐 JWT Authentication & Authorization
 - ⚡ Real-time messaging with Socket.IO
@@ -43,7 +43,7 @@ A full-stack MERN chat app with real-time messaging using Socket.IO
 
 ---
 
-### 📝 [Blogz - Blog Platform](https://github.com/avaydotcom/mern-blogz)
+### 📝 [Blogz - Blog Platform](https://github.com/abhaydotcom/mern-blogz)
 A feature-rich blogging platform for content creators
 - ✍️ Rich text editor for blog posts
 - 👤 Complete user profile management
@@ -57,14 +57,14 @@ A feature-rich blogging platform for content creators
 
 ## 📊 GitHub Stats
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=avaydotcom&show_icons=true&theme=radical)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaydotcom&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaydotcom&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaydotcom&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=avaydotcom&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=abhaydotcom&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
@@ -76,4 +76,4 @@ A feature-rich blogging platform for content creators
 
 ---
 
-⭐️ From [Abhay Kumar Singh](https://github.com/avaydotcom)
+⭐️ From [Abhay Kumar Singh](https://github.com/abhaydotcom)
